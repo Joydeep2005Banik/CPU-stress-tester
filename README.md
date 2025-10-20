@@ -1,1 +1,0 @@
-# CPU-stress-tester
